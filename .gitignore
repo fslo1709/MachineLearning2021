@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other ignored files
+/hw4/liblinear
+/hw5/libsvm-3.25
+/**/data
+**.csv
